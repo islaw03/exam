@@ -1,2 +1,2 @@
-# exam
-https://github.com/islaw03/exam/new/task1?readme=1
+# exam ССЫЛКА НА ЭКЗАМЕН
+https://github.com/islaw03/EXAM_4/tree/master/src/com/company
